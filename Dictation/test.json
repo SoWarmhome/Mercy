@@ -1,5 +1,16 @@
-[
-  { "word": "apple", "definition": "A fruit" },
-  { "word": "banana", "definition": "A yellow fruit" },
-  { "word": "cat", "definition": "A small domesticated animal" }
-]
+
+{
+  "words": [
+    {
+      "text": "apple",
+      "phonetic": "/ˈæpl/",
+      "definition": "一种圆形水果，红色或绿色，果肉清脆多汁"
+    },
+    {
+      "text": "computer",
+      "phonetic": "/kəmˈpjuːtər/",
+      "definition": "用于存储、处理和检索数据的电子设备"
+    },
+    // ... 更多单词
+  ]
+}
