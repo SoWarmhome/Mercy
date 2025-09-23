@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <Spinner android:id="@+id/type_spinner" android:layout_width="match_parent" android:layout_height="wrap_content" />
+    <Spinner android:id="@+id/lang_spinner" android:layout_width="match_parent" android:layout_height="wrap_content" />
+    <Spinner android:id="@+id/lesson_spinner" android:layout_width="match_parent" android:layout_height="wrap_content" />
+    <Button android:id="@+id/start_button" android:text="開始" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <TextView android:id="@+id/current_text" android:layout_width="match_parent" android:layout_height="wrap_content" android:textSize="18sp" />
+    <Button android:id="@+id/repeat_button" android:text="重覆朗讀" android:layout_width="wrap_content" android:layout_height="wrap_content" android:visibility="gone" android:onClick="onRepeatClick"/>
+    <Button android:id="@+id/next_button" android:text="下一個" android:layout_width="wrap_content" android:layout_height="wrap_content" android:visibility="gone" android:onClick="onNextClick"/>
+</LinearLayout>
