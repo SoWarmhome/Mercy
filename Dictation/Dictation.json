@@ -287,7 +287,8 @@
     {"U1 Words": ""},
     {"U2 Words": ""},
     {"U3 Words": ""},
-    {"U4 Words": ""}
+    {"U4 Words": ""},
+    {"XiaoMi Words": ""}
   ],
   "U1 Words": [
     {"a bank": ""},
@@ -347,6 +348,24 @@
     {"chalk": ""},
     {"projector": ""}
   ],
+
+  "Xiaomi Words": [
+    {"red": ""},
+    {"yellow": ""},
+    {"orange": ""},
+    {"black": ""},
+    {"pink": ""},
+    {"purple": ""},
+    {"cyan": ""},
+    {"blue": ""},
+    {"green": ""},
+    {"grey": ""},
+    {"brown": ""},
+    {"white": ""},
+    {"chalk": ""},
+    {"projector": ""}
+  ],
+  
   "常識中文": [
     {"課文一": ""},
     {"課文二": ""},
