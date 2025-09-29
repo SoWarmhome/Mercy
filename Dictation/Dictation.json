@@ -5,17 +5,7 @@
     {"第七課詞語": ""},
     {"第十二課詞語": ""},
     {"第十三課詞語": ""},
-    {"第十四課詞語": ""},
-    {"小米詞語": ""}
-  ],
-
-  "小米詞語": [
-    {"爸爸": ""},
-    {"媽媽": ""},
-    {"哥哥": ""},
-    {"姐姐": ""},
-    {"弟弟": ""},
-    {"妹妹": ""}
+    {"第十四課詞語": ""}
   ],
   
   "第一課詞語": [
@@ -473,5 +463,32 @@
     {"小女兒頓了頓，逗號。": ""},
     {"依偎在媽媽懷裏說，冒號，開引號。": ""},
     {"我是媽媽的好孩子。句號，閂引號。": ""}
-  ]
+  ],
+
+  "英文句子":[{"U1 Sentence1":""},{"U1 Sentence2":""},{"U1 Sentence3":""},{"U1 Sentence4":""},{"U2 Sentence1":""},{"U2 Sentence2":""},{"U2 Sentence3":""},{"U3 Sentence1":""},{"U3 Sentence2":""},{"U3 Sentence3":""},{"U3 Sentence4":""}],
+
+  "U1 Sentence1":[{"Allie and her friends are near the children's centre Full Stop ":""},{"Allie Colon  What does Mr Chan want us to do Question Mark":""},{"Megan Colon  Buy the things on the list Full Stop ":""},{"Get back by three o'clock Full Stop ":""},{"Fred Colon  OK Exclamation Mark  We need to buy a cake Full Stop  ":""},{"Is there a cake shop near here? Question Mark":""},{"Ryan Colon  Yes Comma  there is Full Stop ":""},{"It's next to the bank Full Stop ":""}],
+
+  "U1 Sentence2":[{"Megan Colon  Good Exclamation Mark  We can buy ffruit and vegetables in a supermarket Full Stop ":""},{"Is there a supermarket near here Question Mark":""},{"Allie Colon  No Comma  there isn't Full Stop ":""},{"Ryan Colon  I know there's a market nearby Full Stop ":""},{"Megan Colon  Where's the market?":""},{"Ryan Colon  It's in front of the restaurant Full Stop ":""},{"Fred Colon  Great Exclamation Mark  Let's go to the market first Exclamation Mark ":""}],
+
+  "U1 Sentence3":[{"Allie and her friends are at the cake shop now Full Stop ":""},{"Megan Colon  Hooray Exclamation Mark  We have all the things Full Stop ":""},{"Let's go back Full Stop ":""},{"Old man Colon  Excuse me Comma  is there a post office Question Mark":""},{"Ryan Colon  Yes Comma  there is Full Stop  It's behind the cinema Full Stop":""},{"Old man Colon  Can you show me the way Question Mark":""},{"Fred Colon  Oh Comma  shall we help him Question Mark":""},{"We're getting late Full Stop ":""},{"Ryan Colon  Of course Exclamation Mark ":""},{"Allie Colon  Yes Comma  sure Exclamation Mark ":""}],
+
+  "U1 Sentence4":[{"Allie and her friends are back to the children's centre Full Stop ":""},{"Fred Colon  Sorry Comma  Mr Chan Exclamation Mark  We're late Full Stop ":""},{"Mr Chan Colon  You're late Comma  but you're very helpful Full Stop ":""},{"Well done Exclamation Mark ":""},{"We can see a cinema and a park on the map Full Stop ":""},{"Let's be kind and help people in need Full Stop ":""}],
+
+  "U2 Sentence1":[{"Jamie and his parents are having a picnic in the  country park Full Stop ":""},{"Jamie's dad is dancing on the grass Full Stop ":""},{"Jamie is taking photos of a flower Full Stop ":""},{"No Comma  Jamie Exclamation Mark  You mustn't pick flowers Full Stop ":""},{"Lunch is ready Exclamation Mark ":""},{"There is a lot of rubbish around Jamie Full Stop ":""},{"He is not tidy Full Stop ":""},{"You must keep clean Comma  Jamie Full Stop ":""}],
+
+  "U2 Sentence2":[{"A country park is a public place Full Stop ":""},{"Let's keep public places clean Full Stop ":""},{"It is a nice afternoon Full Stop ":""},{"Jamie is riding a scooter Full Stop ":""},{"Shall we have a walk Comma  Jamie Question Mark":""},{"Good idea Exclamation Mark ":""},{"A monkey is looking at Jamie Full Stop ":""},{"Jamie gets the crisps from his rucksack Full Stop ":""}],
+
+  "U2 Sentence3":[{"Stop Comma  Jamie Exclamation Mark  Look at the sign Full Stop ":""},{"You mustn't do this Full Stop ":""},{"Why not? It's hungry Exclamation Mark ":""},{"In American English Comma  a rucksack is called a backpack Full Stop ":""},{"Jamie sees a woman Full Stop ":""},{"She is running Full Stop ":""},{"No Exclamation Mark  Don't come near me Exclamation Mark ":""},{"Do you see why Question Mark":""},{"Oh Exclamation Mark  I see Exclamation Mark ":""},{"We must always follow the rules of country parks Full Stop ":""}],
+
+  "U3 Sentence1":[{"We can read books and use the computer there Full Stop ":""},{"What place is it? Question Mark":""},{"It is easy Exclamation Mark  It's the library Full Stop ":""},{"That's right Exclamation Mark ":""},{"Where's the library in our school? Question Mark":""},{"It's on the second floor Full Stop ":""},{"We go there at recess Full Stop ":""},{"We can chat with friends and relax Full Stop ":""},{"We can buy some healthy snacks Full Stop ":""},{"What place is it? Question Mark":""}],
+
+  "U3 Sentence2":[{"It's the playground Full Stop ":""},{"Oops Comma  that's wrong Full Stop ":""},{"Try again Full Stop ":""},{"It's the tuck shop Full Stop ":""},{"We can buy snacks in the tuck shop Full Stop ":""},{"Correct Full Stop ":""},{"Let's buy healthy snacks at school Full Stop ":""},{"Here we can sing wonderful songs Full Stop ":""},{"What place is it? Question Mark":""}],
+
+  "U3 Sentence3":[{"I know Exclamation Mark  It's the music room Full Stop ":""},{"Good job Exclamation Mark  Where is it? Question Mark":""},{"It's on the fourth floor Full Stop ":""},{"Red Comma  pink and yellow Full Stop  Orange Comma  white and blue Full Stop ":""},{"Don't be slow Full Stop ":""},{"The flowers there are waiting for you Exclamation Mark ":""},{"What place is it? Question Mark":""},{"I know Exclamation Mark  It's the art room Full Stop ":""},{"Um Comma  I think Ellipsis":""},{"Am I correct? Question Mark":""},{"Fred Comma  let's listen to Megan Full Stop ":""}],
+
+  "U3 Sentence4":[{"I think it's the garden Full Stop ":""},{"We can see flowers in the garden Full Stop ":""},{"You're right Comma  Megan Exclamation Mark ":""},{"We can see our school cat in the garden too Full Stop ":""},{"Show respect and listen to what our classmates say Full Stop ":""}]
+
+  
 }
+
